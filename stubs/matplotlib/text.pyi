@@ -1,0 +1,6 @@
+# pylint: skip-file
+
+class Annotation: ...
+
+class Text:
+    def set_rotation(self, s: float) -> None: ...
